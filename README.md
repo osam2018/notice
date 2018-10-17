@@ -67,8 +67,8 @@
 
 **캠프 참가자는 모두 만족도조사,  캠프후기를 작성해 주시기 바랍니다.**
 
-[캠프 만족도조사 작성하러가기](https://docs.google.com/forms/d/1xQWrnbkl9kOmG9zwuQ8Va6QfoaFB5uIQo8PgVa18zK0/)
+[캠프 만족도조사 작성하러가기](https://docs.google.com/forms/d/1y7RBiROgu996bKMZrowVAMiTcmxZLFlvkZOeVSGtBGM/)
 
-[캠프 후기 작성하러가기](http://osam.oss.kr/board/index.jsp?code=camp2017)
+[캠프 후기 작성하러가기](http://osam.oss.kr/board/index.jsp?code=camp2018)
 
 
